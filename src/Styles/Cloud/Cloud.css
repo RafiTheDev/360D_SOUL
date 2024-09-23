@@ -1,0 +1,22 @@
+.cloud-1{
+    background-color:rgba(61, 196, 16, 0.838)  ;
+    color: white;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 33vh;
+    width: 100%;
+
+    
+}
+
+.cloud-2{
+    background-color:rgba(26, 116, 201, 0.838)  ;
+    color: white;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 33vh;
+    width: 100%;
+
+}
